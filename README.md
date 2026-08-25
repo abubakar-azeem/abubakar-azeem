@@ -2,8 +2,8 @@
 <div align="center">
 
 <img width="100%" src="https://raw.githubusercontent.com/abubakar-azeem/abubakar-azeem/main/header.svg" alt="Abu Bakar"/>
-<a href="mailto:abubakarazeem32@gmail.com"><img src="https://img.shields.io/badge/-Senior_Backend-a855f7?style=for-the-badge&labelColor=0d1117&logo=python&logoColor=a855f7"/></a>
-<img src="https://img.shields.io/badge/-4%2B_Years_Experience-ec4899?style=for-the-badge&labelColor=0d1117&logo=stackoverflow&logoColor=ec4899"/>
+<a href="mailto:abubakarazeem32@gmail.com"><img src="https://img.shields.io/badge/-Backend Developer-a855f7?style=for-the-badge&labelColor=0d1117&logo=python&logoColor=a855f7"/></a>
+<img src="https://img.shields.io/badge/-2%2B_Years_Experience-ec4899?style=for-the-badge&labelColor=0d1117&logo=stackoverflow&logoColor=ec4899"/>
 <img src="https://img.shields.io/badge/-Lahore_PK-f97316?style=for-the-badge&labelColor=0d1117&logo=googlemaps&logoColor=f97316"/>
 
 <br/>
