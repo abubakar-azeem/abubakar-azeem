@@ -110,9 +110,9 @@ Welcome back, Software Engineer.
 ## 🐍 CONTRIBUTION SNAKE
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abubakar-azeem/abdubakar-azeem/output/snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abubakar-azeem/abdubakar-azeem/output/snake-light.svg"/>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/abubakar-azeem/abdubakar-azeem/output/snake-dark.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abubakar-azeem/abubakar-azeem/output/snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abubakar-azeem/abubakar-azeem/output/snake-light.svg"/>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/abubakar-azeem/abubakar-azeem/output/snake-dark.svg"/>
 </picture>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=6,11,20"/>
