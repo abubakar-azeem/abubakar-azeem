@@ -3,7 +3,7 @@
 
 <img width="100%" src="https://raw.githubusercontent.com/abdubakar-azeem/abdubakar-azeem/main/header.svg" alt="Abu Bakar"/>
 
-<a href="mailto:abdullah.shahid.021001@gmail.com"><img src="https://img.shields.io/badge/-Senior_Backend-a855f7?style=for-the-badge&labelColor=0d1117&logo=python&logoColor=a855f7"/></a>
+<a href="mailto:abubakarazeem32@gmail.com"><img src="https://img.shields.io/badge/-Senior_Backend-a855f7?style=for-the-badge&labelColor=0d1117&logo=python&logoColor=a855f7"/></a>
 <img src="https://img.shields.io/badge/-4%2B_Years_Experience-ec4899?style=for-the-badge&labelColor=0d1117&logo=stackoverflow&logoColor=ec4899"/>
 <img src="https://img.shields.io/badge/-Lahore_PK-f97316?style=for-the-badge&labelColor=0d1117&logo=googlemaps&logoColor=f97316"/>
 
@@ -21,10 +21,10 @@
 
 ```bash
 $ ssh abubakar@production
-Welcome back, Senior Backend Engineer.
+Welcome back, Software Engineer.
 
 > role     : Python Backend + DevOps
-> exp      : 4+ years shipping prod systems end-to-end
+> exp      : 2+ years shipping prod systems end-to-end
 > stack    : FastAPI · Kubernetes · PostgreSQL · Prometheus
 > now      : leading FBR e-invoicing @ Crypthon Technologies
 > mode     : remote-first · async · owns feature → on-call
@@ -68,23 +68,14 @@ Welcome back, Senior Backend Engineer.
 
 <img align="left" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 
-**Senior Python Developer** · **Crypthon Technologies** &nbsp;`Feb 2025 → now`
+**Software Developer** · **Crypthon Technologies** &nbsp;`Oct 2025 → now`
 > Owns end-to-end Kubernetes infra — HPA autoscaling, resource limits, HAProxy/Nginx ingress. Built the Prometheus + Grafana + ELK observability stack and real-time chat/notifications (WebSockets, Firebase). **Currently leading FBR e-invoicing integration.**
 
 <img align="left" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"/>
 
-**Senior Back-End Developer** · **Enigmatix** &nbsp;`Aug 2024 → Jan 2025`
+**Full Stack Developer** · **DevVerx** &nbsp;`Feb 2025 → Sep 2025`
 > OAuth2/JWT auth across Django + FastAPI, plus query & pagination optimization for large datasets.
 
-<img align="left" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"/>
-
-**Back-End Developer** · **Enigmatix** &nbsp;`Jul 2023 → Aug 2024`
-> REST APIs with DRF + FastAPI, Redis caching, and async request handling for high-traffic endpoints.
-
-<img align="left" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"/>
-
-**Associate Back-End Developer** · **Enigmatix** &nbsp;`Jun 2022 → Jul 2023`
-> Real-time features (WebSockets, Django Channels) + Pytest/Unittest test coverage.
 
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=6,11,20"/>
@@ -109,8 +100,6 @@ Welcome back, Senior Backend Engineer.
 **🛒 Duty Free** — *Cross-Location Item Exchange*
 `FastAPI` `PostgreSQL` `Firebase` `JWT` &nbsp;→&nbsp; order / tracking / reward services, JWT-secured flows, role-based perms.
 
-**🏢 RentAround + Office & Restaurant Systems**
-`FastAPI` `Django` `PostgreSQL` `MySQL` `Redis` `AWS` &nbsp;→&nbsp; rentals, office ops & restaurant mgmt: auth, inventory, scheduling, reservations.
 
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=6,11,20"/>
@@ -136,7 +125,7 @@ Welcome back, Senior Backend Engineer.
 
 ## 📡 LET'S BUILD SOMETHING
 
-<a href="mailto:abdullah.shahid.021001@gmail.com"><img src="https://img.shields.io/badge/Email_Me-ec4899?style=for-the-badge&logo=gmail&logoColor=0d1117&labelColor=0d1117"/></a>
+<a href="mailto:abubakarazeem32@gmail.com"><img src="https://img.shields.io/badge/Email_Me-ec4899?style=for-the-badge&logo=gmail&logoColor=0d1117&labelColor=0d1117"/></a>
 
 <sub>📍 Lahore, Pakistan · ⚡ open to backend & infra challenges</sub>
 
