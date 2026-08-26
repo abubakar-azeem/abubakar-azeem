@@ -22,7 +22,7 @@
 $ ssh abubakar@production
 Welcome back, Software Engineer.
 
-> role     : Python Backend + DevOps
+> role     : Python Backend
 > exp      : 2+ years shipping prod systems end-to-end
 > stack    : FastAPI · Kubernetes · PostgreSQL · Prometheus
 > now      : leading FBR e-invoicing @ Crypthon Technologies
